@@ -1,0 +1,167 @@
+/**
+* actionsheet
+*/
+/**
+* datetime
+*/
+/**
+* tabbar
+*/
+/**
+* tab
+*/
+/**
+* dialog
+*/
+/**
+* x-number
+*/
+/**
+* checkbox
+*/
+/**
+* check-icon
+*/
+/**
+* Cell
+*/
+/**
+* Mask
+*/
+/**
+* Range
+*/
+/**
+* Tabbar
+*/
+/**
+* Header
+*/
+/**
+* Timeline
+*/
+/**
+* Switch
+*/
+/**
+* Button
+*/
+/**
+* swipeout
+*/
+/**
+* Cell
+*/
+/**
+* Badge
+*/
+/**
+* Popover
+*/
+/**
+* Button tab
+*/
+/* alias */
+/**
+* Swiper
+*/
+/**
+* checklist
+*/
+/**
+* popup-picker
+*/
+/**
+* popup
+*/
+/**
+* popup-header
+*/
+/**
+* form-preview
+*/
+/**
+* load-more
+*/
+/**
+* sticky
+*/
+/**
+* group
+*/
+/**
+* toast
+*/
+/**
+* icon
+*/
+/**
+* calendar
+*/
+/**
+* week-calendar
+*/
+/**
+* search
+*/
+/**
+* radio
+*/
+/**
+* loadmore
+*/
+.to {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.btn-primary {
+  font-size: .36rem;
+  line-height: 2.444;
+  border-radius: .1rem;
+  color: #fff;
+  display: block;
+  background-color: #007dba;
+  text-align: center;
+}
+.btn-primary:active {
+  background-color: #008ed3;
+}
+.btn-primary.disabled {
+  background-color: #bbb;
+  color: #666;
+}
+.btn-primary.disabled:active {
+  background-color: #bbb;
+}
+.btn-default {
+  font-size: .36rem;
+  line-height: 2.444;
+  border-radius: .1rem;
+  color: #007dba;
+  display: block;
+  background-color: #fff;
+  border: 0.02rem solid #007dba;
+  text-align: center;
+}
+.btn-default:active {
+  color: #fff;
+  background-color: #007dba;
+}
+.btn-default.disabled {
+  color: #666;
+  border: 1px solid #bbb;
+}
+.btn-m {
+  width: 3rem;
+  font-size: .32rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+.btn-s {
+  width: 3rem;
+  line-height: 1.8;
+  font-size: .28rem;
+  margin-left: auto;
+  margin-right: auto;
+}

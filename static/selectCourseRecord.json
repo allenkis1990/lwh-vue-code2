@@ -1,0 +1,314 @@
+{
+  "head": {
+    "code": 200,
+    "message": ""
+  },
+  "data": {
+    "pageNo": 1,
+    "pageSize": 5,
+    "totalSize": 100,
+    "currentPageData": [
+      {
+        "useCredits": 61,
+        "status": 1,
+        "orderNo": "23132131313123132",
+        "deleiverInfoComplete": true,
+        "createTime": "2018.12.11 16:40",
+        "supportWechatPay": false,
+        "totalAmount": "100",
+        "businessType": "NORMAL",
+        "tradeChannel": 1,
+        "orderGenerateType": "1",
+        "hasAssociatedOrder": true,
+        "associatedOrderDtoList": [
+          {
+            "associatedOrderNo": "123123",
+            "associatedOrderName": "123123"
+          }
+        ],
+        "courseList": [
+          {
+            "credit": 30,
+            "skuId": "487987897",
+            "skuName": "课程1",
+            "photoPath": "/image/course-img.jpg",
+            "swapOut": "false",
+            "categoryType": "LINE_OFF_TRAINING_CLASS",
+            "skuPropertyNameList": [
+              {
+                "skuPropertyCode": "trainingYear",
+                "skuPropertyId": "7a4847b2667e31d9e40652c4d14cdbc2",
+                "skuPropertyName": "年度",
+                "skuPropertyValueCode": "2018",
+                "skuPropertyValueId": "812b569c015628569c5a77f6a0315010",
+                "skuPropertyValueName": "2018"
+              },
+              {
+                "skuPropertyCode": "professionalGrade",
+                "skuPropertyId": "40289979626a2975024652c4d14cdb11",
+                "skuPropertyName": "专业技术资格等级",
+                "skuPropertyValueCode": "nothing",
+                "skuPropertyValueId": "40289979626a2975024652c4d14cds25",
+                "skuPropertyValueName": "p1基础"
+              },
+              {
+                "skuPropertyCode": "trainingSubject",
+                "skuPropertyId": "40289979626a2975018652c4d14cdbc3",
+                "skuPropertyName": "科目",
+                "skuPropertyValueCode": "profession",
+                "skuPropertyValueId": "40289979626a2975018a77f6a0316102",
+                "skuPropertyValueName": "公需科目"
+              }
+            ]
+          },
+          {
+            "credit": 31,
+            "skuId": "487987897",
+            "skuName": "课程2",
+            "photoPath": "/image/course-img.jpg",
+            "swapOut": "false",
+            "categoryType": "LINE_OFF_TRAINING_CLASS",
+            "skuPropertyNameList": [
+              {
+                "skuPropertyCode": "trainingYear",
+                "skuPropertyId": "7a4847b2667e31d9e40652c4d14cdbc2",
+                "skuPropertyName": "年度",
+                "skuPropertyValueCode": "2018",
+                "skuPropertyValueId": "812b569c015628569c5a77f6a0315010",
+                "skuPropertyValueName": "2018"
+              },
+              {
+                "skuPropertyCode": "professionalGrade",
+                "skuPropertyId": "40289979626a2975024652c4d14cdb11",
+                "skuPropertyName": "专业技术资格等级",
+                "skuPropertyValueCode": "nothing",
+                "skuPropertyValueId": "40289979626a2975024652c4d14cds25",
+                "skuPropertyValueName": "p1基础"
+              },
+              {
+                "skuPropertyCode": "trainingSubject",
+                "skuPropertyId": "40289979626a2975018652c4d14cdbc3",
+                "skuPropertyName": "科目",
+                "skuPropertyValueCode": "profession",
+                "skuPropertyValueId": "40289979626a2975018a77f6a0316102",
+                "skuPropertyValueName": "公需科目"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "useCredits": 62,
+        "status": 2,
+        "orderNo": "23132131313123132",
+        "deleiverInfoComplete": true,
+        "createTime": "2018.12.12 16:40",
+        "supportWechatPay": false,
+        "totalAmount": "100",
+        "businessType": "NORMAL",
+        "tradeChannel": 1,
+        "orderGenerateType": "1",
+        "hasAssociatedOrder": true,
+        "associatedOrderDtoList": [
+          {
+            "associatedOrderNo": "123123",
+            "associatedOrderName": "123123"
+          }
+        ],
+        "courseList": [
+          {
+            "credit": 30,
+            "skuId": "487987897",
+            "skuName": "课程3",
+            "photoPath": "/image/course-img.jpg",
+            "swapOut": "false",
+            "categoryType": "LINE_OFF_TRAINING_CLASS",
+            "skuPropertyNameList": [
+              {
+                "skuPropertyCode": "trainingYear",
+                "skuPropertyId": "7a4847b2667e31d9e40652c4d14cdbc2",
+                "skuPropertyName": "年度",
+                "skuPropertyValueCode": "2018",
+                "skuPropertyValueId": "812b569c015628569c5a77f6a0315010",
+                "skuPropertyValueName": "2018"
+              },
+              {
+                "skuPropertyCode": "professionalGrade",
+                "skuPropertyId": "40289979626a2975024652c4d14cdb11",
+                "skuPropertyName": "专业技术资格等级",
+                "skuPropertyValueCode": "nothing",
+                "skuPropertyValueId": "40289979626a2975024652c4d14cds25",
+                "skuPropertyValueName": "p1基础"
+              },
+              {
+                "skuPropertyCode": "trainingSubject",
+                "skuPropertyId": "40289979626a2975018652c4d14cdbc3",
+                "skuPropertyName": "科目",
+                "skuPropertyValueCode": "profession",
+                "skuPropertyValueId": "40289979626a2975018a77f6a0316102",
+                "skuPropertyValueName": "公需科目"
+              }
+            ]
+          },
+          {
+            "credit": 32,
+            "skuId": "487987897",
+            "skuName": "课程4",
+            "photoPath": "/image/course-img.jpg",
+            "swapOut": "false",
+            "categoryType": "LINE_OFF_TRAINING_CLASS",
+            "skuPropertyNameList": [
+              {
+                "skuPropertyCode": "trainingYear",
+                "skuPropertyId": "7a4847b2667e31d9e40652c4d14cdbc2",
+                "skuPropertyName": "年度",
+                "skuPropertyValueCode": "2018",
+                "skuPropertyValueId": "812b569c015628569c5a77f6a0315010",
+                "skuPropertyValueName": "2018"
+              },
+              {
+                "skuPropertyCode": "professionalGrade",
+                "skuPropertyId": "40289979626a2975024652c4d14cdb11",
+                "skuPropertyName": "专业技术资格等级",
+                "skuPropertyValueCode": "nothing",
+                "skuPropertyValueId": "40289979626a2975024652c4d14cds25",
+                "skuPropertyValueName": "p1基础"
+              },
+              {
+                "skuPropertyCode": "trainingSubject",
+                "skuPropertyId": "40289979626a2975018652c4d14cdbc3",
+                "skuPropertyName": "科目",
+                "skuPropertyValueCode": "profession",
+                "skuPropertyValueId": "40289979626a2975018a77f6a0316102",
+                "skuPropertyValueName": "公需科目"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "useCredits": 92,
+        "status": 3,
+        "orderNo": "23132131313123132",
+        "deleiverInfoComplete": true,
+        "createTime": "2018.12.13 16:40",
+        "supportWechatPay": false,
+        "totalAmount": "100",
+        "businessType": "NORMAL",
+        "tradeChannel": 1,
+        "orderGenerateType": "1",
+        "hasAssociatedOrder": true,
+        "associatedOrderDtoList": [
+          {
+            "associatedOrderNo": "123123",
+            "associatedOrderName": "123123"
+          }
+        ],
+        "courseList": [
+          {
+            "credit": 30,
+            "skuId": "487987897",
+            "skuName": "课程6",
+            "photoPath": "/image/course-img.jpg",
+            "swapOut": "false",
+            "categoryType": "LINE_OFF_TRAINING_CLASS",
+            "skuPropertyNameList": [
+              {
+                "skuPropertyCode": "trainingYear",
+                "skuPropertyId": "7a4847b2667e31d9e40652c4d14cdbc2",
+                "skuPropertyName": "年度",
+                "skuPropertyValueCode": "2018",
+                "skuPropertyValueId": "812b569c015628569c5a77f6a0315010",
+                "skuPropertyValueName": "2018"
+              },
+              {
+                "skuPropertyCode": "professionalGrade",
+                "skuPropertyId": "40289979626a2975024652c4d14cdb11",
+                "skuPropertyName": "专业技术资格等级",
+                "skuPropertyValueCode": "nothing",
+                "skuPropertyValueId": "40289979626a2975024652c4d14cds25",
+                "skuPropertyValueName": "p1基础"
+              },
+              {
+                "skuPropertyCode": "trainingSubject",
+                "skuPropertyId": "40289979626a2975018652c4d14cdbc3",
+                "skuPropertyName": "科目",
+                "skuPropertyValueCode": "profession",
+                "skuPropertyValueId": "40289979626a2975018a77f6a0316102",
+                "skuPropertyValueName": "公需科目"
+              }
+            ]
+          },
+          {
+            "credit": 32,
+            "skuId": "487987897",
+            "skuName": "课程7",
+            "photoPath": "/image/course-img.jpg",
+            "swapOut": "false",
+            "categoryType": "LINE_OFF_TRAINING_CLASS",
+            "skuPropertyNameList": [
+              {
+                "skuPropertyCode": "trainingYear",
+                "skuPropertyId": "7a4847b2667e31d9e40652c4d14cdbc2",
+                "skuPropertyName": "年度",
+                "skuPropertyValueCode": "2018",
+                "skuPropertyValueId": "812b569c015628569c5a77f6a0315010",
+                "skuPropertyValueName": "2018"
+              },
+              {
+                "skuPropertyCode": "professionalGrade",
+                "skuPropertyId": "40289979626a2975024652c4d14cdb11",
+                "skuPropertyName": "专业技术资格等级",
+                "skuPropertyValueCode": "nothing",
+                "skuPropertyValueId": "40289979626a2975024652c4d14cds25",
+                "skuPropertyValueName": "p1基础"
+              },
+              {
+                "skuPropertyCode": "trainingSubject",
+                "skuPropertyId": "40289979626a2975018652c4d14cdbc3",
+                "skuPropertyName": "科目",
+                "skuPropertyValueCode": "profession",
+                "skuPropertyValueId": "40289979626a2975018a77f6a0316102",
+                "skuPropertyValueName": "公需科目"
+              }
+            ]
+          },
+          {
+            "credit": 30,
+            "skuId": "487987897",
+            "skuName": "课程8",
+            "photoPath": "/image/course-img.jpg",
+            "swapOut": "false",
+            "categoryType": "LINE_OFF_TRAINING_CLASS",
+            "skuPropertyNameList": [
+              {
+                "skuPropertyCode": "trainingYear",
+                "skuPropertyId": "7a4847b2667e31d9e40652c4d14cdbc2",
+                "skuPropertyName": "年度",
+                "skuPropertyValueCode": "2018",
+                "skuPropertyValueId": "812b569c015628569c5a77f6a0315010",
+                "skuPropertyValueName": "2018"
+              },
+              {
+                "skuPropertyCode": "professionalGrade",
+                "skuPropertyId": "40289979626a2975024652c4d14cdb11",
+                "skuPropertyName": "专业技术资格等级",
+                "skuPropertyValueCode": "nothing",
+                "skuPropertyValueId": "40289979626a2975024652c4d14cds25",
+                "skuPropertyValueName": "p1基础"
+              },
+              {
+                "skuPropertyCode": "trainingSubject",
+                "skuPropertyId": "40289979626a2975018652c4d14cdbc3",
+                "skuPropertyName": "科目",
+                "skuPropertyValueCode": "profession",
+                "skuPropertyValueId": "40289979626a2975018a77f6a0316102",
+                "skuPropertyValueName": "公需科目"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

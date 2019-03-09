@@ -1,0 +1,135 @@
+{
+  "head": {
+    "code": 200,
+    "message": ""
+  },
+  "data": {
+
+    "list":[
+      {
+        "count": 2,
+        "period": 15,
+        "courseCommodityGroupVoList": [
+          {
+            "categoryName": "公需课分类1",
+            "count": 1,
+            "courseCommodityBaseVoList": [
+              {
+                "categoryId": "2c9180176753db7c016755302cde0343",
+                "categoryName": "公需课分类1",
+                "courseId": "2c9180176753db7c0167553069cf0345",
+                "courseName": "公需课课程1",
+                "period": 10
+              }
+            ],
+            "period": 10
+          },
+          {
+            "categoryName": "公需课分类2",
+            "count": 1,
+            "courseCommodityBaseVoList": [
+              {
+                "categoryId": "2c9180176753db7c016753faa31d0049",
+                "categoryName": "公需课分类2",
+                "courseId": "2c9180176753db7c0167584b4a3a04b1",
+                "courseName": "公需课课程2",
+                "period": 5,
+                "skuPropertyList": null
+              }
+            ],
+            "period": 5
+          }
+        ],
+        "skuPropertyList": [
+          {
+            "skuPropertyCode": "trainingYear",
+            "skuPropertyId": "7a4847b2667e31d9e40652c4d14cdbc2",
+            "skuPropertyName": null,
+            "skuPropertyValueCode": null,
+            "skuPropertyValueId": "812b569c015628569c5a77f6a0315011",
+            "skuPropertyValueName": "2019"
+          },
+          {
+            "skuPropertyCode": "professionalGrade",
+            "skuPropertyId": "40289979626a2975024652c4d14cdb11",
+            "skuPropertyName": null,
+            "skuPropertyValueCode": null,
+            "skuPropertyValueId": "40289979626a2975024652c4d14cds26",
+            "skuPropertyValueName": "初级"
+          },
+          {
+            "skuPropertyCode": "trainingSubject",
+            "skuPropertyId": "40289979626a2975018652c4d14cdbc3",
+            "skuPropertyName": null,
+            "skuPropertyValueCode": null,
+            "skuPropertyValueId": "40289979626a2975018a77f6a0316101",
+            "skuPropertyValueName": "公需科目"
+          }
+        ]
+      },
+      {
+        "count": 2,
+        "period": 15,
+        "courseCommodityGroupVoList": [
+          {
+            "categoryName": "专业课分类1",
+            "count": 1,
+            "courseCommodityBaseVoList": [
+              {
+                "categoryId": "2c9180176753db7c016755302cde0343",
+                "categoryName": "专业课分类1",
+                "courseId": "2c9180176753db7c0167553069cf0345",
+                "courseName": "专业课程1",
+                "period": 10
+              }
+            ],
+            "period": 10
+          },
+          {
+            "categoryName": "专业课分类2",
+            "count": 1,
+            "courseCommodityBaseVoList": [
+              {
+                "categoryId": "2c9180176753db7c016753faa31d0049",
+                "categoryName": "专业课分类2",
+                "courseId": "2c9180176753db7c0167584b4a3a04b1",
+                "courseName": "专业课程2",
+                "period": 5,
+                "skuPropertyList": null
+              }
+            ],
+            "period": 5
+          }
+        ],
+        "skuPropertyList": [
+          {
+            "skuPropertyCode": "trainingYear",
+            "skuPropertyId": "7a4847b2667e31d9e40652c4d14cdbc2",
+            "skuPropertyName": null,
+            "skuPropertyValueCode": null,
+            "skuPropertyValueId": "812b569c015628569c5a77f6a0315011",
+            "skuPropertyValueName": "2019"
+          },
+          {
+            "skuPropertyCode": "professionalGrade",
+            "skuPropertyId": "40289979626a2975024652c4d14cdb11",
+            "skuPropertyName": null,
+            "skuPropertyValueCode": null,
+            "skuPropertyValueId": "40289979626a2975024652c4d14cds26",
+            "skuPropertyValueName": "初级"
+          },
+          {
+            "skuPropertyCode": "trainingSubject",
+            "skuPropertyId": "40289979626a2975018652c4d14cdbc3",
+            "skuPropertyName": null,
+            "skuPropertyValueCode": null,
+            "skuPropertyValueId": "40289979626a2975018a77f6a0316101",
+            "skuPropertyValueName": "专业科目"
+          }
+        ]
+      }
+    ]
+
+
+  }
+}

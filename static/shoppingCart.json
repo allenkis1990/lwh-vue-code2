@@ -1,0 +1,569 @@
+{
+  "head": {
+    "code": 200,
+    "message": ""
+  },
+  "data": {
+    "list": [
+      {
+        "disabled": false,
+        "shoppingCartCommodityList": [
+          {
+            "changed": false,
+            "commoditySkuId": "1",
+            "commodityType": "PERIOD",
+            "courseId": "11",
+            "courseName": "1",
+            "coursePoolId": "e39099d11e0044f1afb73e86aef38cb5",
+            "coursePoolName": "关联专业课程课程包",
+            "disabled": false,
+            "discountPrice": 20,
+            "image": "http://dev.accountant.com:8080/mfs/resource/file/2c9180e6582e03a50158438f6d900a09.jpg",
+            "needYear": false,
+            "originalPrice": 1,
+            "period": 20,
+            "purchaseCount": 1,
+            "saleTitle": "购物车商品1",
+            "schemeId": "2c91801666c31ec7016772958b7e073b",
+            "selected": true,
+            "skuPropertyNameList": [
+              {
+                "skuPropertyCode": "trainingYear",
+                "skuPropertyId": "7a4847b2667e31d9e40652c4d14cdbc2",
+                "skuPropertyName": "年度",
+                "skuPropertyValueCode": "2018",
+                "skuPropertyValueId": "812b569c015628569c5a77f6a0315010",
+                "skuPropertyValueName": "2018"
+              },
+              {
+                "skuPropertyCode": "professionalGrade",
+                "skuPropertyId": "40289979626a2975024652c4d14cdb11",
+                "skuPropertyName": "专业技术资格等级",
+                "skuPropertyValueCode": "nothing",
+                "skuPropertyValueId": "40289979626a2975024652c4d14cds25",
+                "skuPropertyValueName": "p1基础"
+              },
+              {
+                "skuPropertyCode": "trainingSubject",
+                "skuPropertyId": "40289979626a2975018652c4d14cdbc3",
+                "skuPropertyName": "科目",
+                "skuPropertyValueCode": "profession",
+                "skuPropertyValueId": "40289979626a2975018a77f6a0316102",
+                "skuPropertyValueName": "公需科目"
+              }
+            ],
+            "unitId": "2c9180e56265050101826a26f5990672",
+            "year": null,
+            "yearOptionsId": null
+          }
+        ],
+        "skuPropertyNameGroup": [
+          {
+            "skuPropertyCode": "trainingYear",
+            "skuPropertyId": "7a4847b2667e31d9e40652c4d14cdbc2",
+            "skuPropertyName": "年度",
+            "skuPropertyValueCode": "2018",
+            "skuPropertyValueId": "812b569c015628569c5a77f6a0315010",
+            "skuPropertyValueName": "2018"
+          },
+          {
+            "skuPropertyCode": "professionalGrade",
+            "skuPropertyId": "40289979626a2975024652c4d14cdb11",
+            "skuPropertyName": "专业技术资格等级",
+            "skuPropertyValueCode": "nothing",
+            "skuPropertyValueId": "40289979626a2975024652c4d14cds25",
+            "skuPropertyValueName": "无"
+          },
+          {
+            "skuPropertyCode": "trainingSubject",
+            "skuPropertyId": "40289979626a2975018652c4d14cdbc3",
+            "skuPropertyName": "科目",
+            "skuPropertyValueCode": "profession",
+            "skuPropertyValueId": "40289979626a2975018a77f6a0316102",
+            "skuPropertyValueName": "公需科目"
+          }
+        ]
+      },
+      {
+        "disabled": false,
+        "shoppingCartCommodityList": [
+          {
+            "changed": false,
+            "commoditySkuId": "2",
+            "commodityType": "PERIOD",
+            "courseId": "22",
+            "courseName": "1",
+            "coursePoolId": "e39099d11e0044f1afb73e86aef38cb5",
+            "coursePoolName": "关联专业课程课程包",
+            "disabled": false,
+            "discountPrice": 20,
+            "image": "http://dev.accountant.com:8080/mfs/resource/file/2c9180e6582e03a50158438f6d900a09.jpg",
+            "needYear": false,
+            "originalPrice": 1,
+            "period": 20,
+            "purchaseCount": 1,
+            "saleTitle": "购物车商品2",
+            "schemeId": "2c91801666c31ec7016772958b7e073b",
+            "selected": true,
+            "skuPropertyNameList": [
+              {
+                "skuPropertyCode": "trainingYear",
+                "skuPropertyId": "7a4847b2667e31d9e40652c4d14cdbc2",
+                "skuPropertyName": "年度",
+                "skuPropertyValueCode": "2019",
+                "skuPropertyValueId": "812b569c015628569c5a77f6a0315010",
+                "skuPropertyValueName": "2019"
+              },
+              {
+                "skuPropertyCode": "professionalGrade",
+                "skuPropertyId": "40289979626a2975024652c4d14cdb11",
+                "skuPropertyName": "专业技术资格等级",
+                "skuPropertyValueCode": "nothing",
+                "skuPropertyValueId": "40289979626a2975024652c4d14cds25",
+                "skuPropertyValueName": "p1普通"
+              },
+              {
+                "skuPropertyCode": "trainingSubject",
+                "skuPropertyId": "40289979626a2975018652c4d14cdbc3",
+                "skuPropertyName": "科目",
+                "skuPropertyValueCode": "profession",
+                "skuPropertyValueId": "40289979626a2975018a77f6a0316102",
+                "skuPropertyValueName": "专业科目"
+              }
+            ],
+            "unitId": "2c9180e56265050101826a26f5990672",
+            "year": null,
+            "yearOptionsId": null
+          }
+        ],
+        "skuPropertyNameGroup": [
+          {
+            "skuPropertyCode": "trainingYear",
+            "skuPropertyId": "7a4847b2667e31d9e40652c4d14cdbc2",
+            "skuPropertyName": "年度",
+            "skuPropertyValueCode": "2019",
+            "skuPropertyValueId": "812b569c015628569c5a77f6a0315010",
+            "skuPropertyValueName": "2019"
+          },
+          {
+            "skuPropertyCode": "professionalGrade",
+            "skuPropertyId": "40289979626a2975024652c4d14cdb11",
+            "skuPropertyName": "专业技术资格等级",
+            "skuPropertyValueCode": "nothing",
+            "skuPropertyValueId": "40289979626a2975024652c4d14cds25",
+            "skuPropertyValueName": "无"
+          },
+          {
+            "skuPropertyCode": "trainingSubject",
+            "skuPropertyId": "40289979626a2975018652c4d14cdbc3",
+            "skuPropertyName": "科目",
+            "skuPropertyValueCode": "profession",
+            "skuPropertyValueId": "40289979626a2975018a77f6a0316102",
+            "skuPropertyValueName": "专业科目"
+          }
+        ]
+      },
+      {
+        "disabled": false,
+        "shoppingCartCommodityList": [
+          {
+            "changed": false,
+            "commoditySkuId": "3",
+            "commodityType": "PERIOD",
+            "courseId": "33",
+            "courseName": "1",
+            "coursePoolId": "e39099d11e0044f1afb73e86aef38cb5",
+            "coursePoolName": "关联专业课程课程包",
+            "disabled": false,
+            "discountPrice": 20,
+            "image": "http://dev.accountant.com:8080/mfs/resource/file/2c9180e6582e03a50158438f6d900a09.jpg",
+            "needYear": false,
+            "originalPrice": 1,
+            "period": 20,
+            "purchaseCount": 1,
+            "saleTitle": "购物车商品3",
+            "schemeId": "2c91801666c31ec7016772958b7e073b",
+            "selected": true,
+            "skuPropertyNameList": [
+              {
+                "skuPropertyCode": "trainingYear",
+                "skuPropertyId": "7a4847b2667e31d9e40652c4d14cdbc2",
+                "skuPropertyName": "年度",
+                "skuPropertyValueCode": "2020",
+                "skuPropertyValueId": "812b569c015628569c5a77f6a0315010",
+                "skuPropertyValueName": "2020"
+              },
+              {
+                "skuPropertyCode": "professionalGrade",
+                "skuPropertyId": "40289979626a2975024652c4d14cdb11",
+                "skuPropertyName": "专业技术资格等级",
+                "skuPropertyValueCode": "nothing",
+                "skuPropertyValueId": "40289979626a2975024652c4d14cds25",
+                "skuPropertyValueName": "p1普通"
+              },
+              {
+                "skuPropertyCode": "trainingSubject",
+                "skuPropertyId": "40289979626a2975018652c4d14cdbc3",
+                "skuPropertyName": "科目",
+                "skuPropertyValueCode": "profession",
+                "skuPropertyValueId": "40289979626a2975018a77f6a0316102",
+                "skuPropertyValueName": "公需科目"
+              }
+            ],
+            "unitId": "2c9180e56265050101826a26f5990672",
+            "year": null,
+            "yearOptionsId": null
+          },
+          {
+            "changed": false,
+            "commoditySkuId": "4",
+            "commodityType": "PERIOD",
+            "courseId": "44",
+            "courseName": "1",
+            "coursePoolId": "e39099d11e0044f1afb73e86aef38cb5",
+            "coursePoolName": "关联专业课程课程包",
+            "disabled": false,
+            "discountPrice": 20,
+            "image": "http://dev.accountant.com:8080/mfs/resource/file/2c9180e6582e03a50158438f6d900a09.jpg",
+            "needYear": false,
+            "originalPrice": 1,
+            "period": 20,
+            "purchaseCount": 1,
+            "saleTitle": "购物车商品11",
+            "schemeId": "2c91801666c31ec7016772958b7e073b",
+            "selected": true,
+            "skuPropertyNameList": [
+              {
+                "skuPropertyCode": "trainingYear",
+                "skuPropertyId": "7a4847b2667e31d9e40652c4d14cdbc2",
+                "skuPropertyName": "年度",
+                "skuPropertyValueCode": "2020",
+                "skuPropertyValueId": "812b569c015628569c5a77f6a0315010",
+                "skuPropertyValueName": "2020"
+              },
+              {
+                "skuPropertyCode": "professionalGrade",
+                "skuPropertyId": "40289979626a2975024652c4d14cdb11",
+                "skuPropertyName": "专业技术资格等级",
+                "skuPropertyValueCode": "nothing",
+                "skuPropertyValueId": "40289979626a2975024652c4d14cds25",
+                "skuPropertyValueName": "p2精通"
+              },
+              {
+                "skuPropertyCode": "trainingSubject",
+                "skuPropertyId": "40289979626a2975018652c4d14cdbc3",
+                "skuPropertyName": "科目",
+                "skuPropertyValueCode": "profession",
+                "skuPropertyValueId": "40289979626a2975018a77f6a0316102",
+                "skuPropertyValueName": "公需科目"
+              }
+            ],
+            "unitId": "2c9180e56265050101826a26f5990672",
+            "year": null,
+            "yearOptionsId": null
+          }
+        ],
+        "skuPropertyNameGroup": [
+          {
+            "skuPropertyCode": "trainingYear",
+            "skuPropertyId": "7a4847b2667e31d9e40652c4d14cdbc2",
+            "skuPropertyName": "年度",
+            "skuPropertyValueCode": "2020",
+            "skuPropertyValueId": "812b569c015628569c5a77f6a0315010",
+            "skuPropertyValueName": "2020"
+          },
+          {
+            "skuPropertyCode": "professionalGrade",
+            "skuPropertyId": "40289979626a2975024652c4d14cdb11",
+            "skuPropertyName": "专业技术资格等级",
+            "skuPropertyValueCode": "nothing",
+            "skuPropertyValueId": "40289979626a2975024652c4d14cds25",
+            "skuPropertyValueName": "无"
+          },
+          {
+            "skuPropertyCode": "trainingSubject",
+            "skuPropertyId": "40289979626a2975018652c4d14cdbc3",
+            "skuPropertyName": "科目",
+            "skuPropertyValueCode": "profession",
+            "skuPropertyValueId": "40289979626a2975018a77f6a0316102",
+            "skuPropertyValueName": "公需科目"
+          }
+        ]
+      },
+      {
+        "disabled": false,
+        "shoppingCartCommodityList": [
+          {
+            "changed": false,
+            "commoditySkuId": "5",
+            "commodityType": "PERIOD",
+            "courseId": "55",
+            "courseName": "1",
+            "coursePoolId": "e39099d11e0044f1afb73e86aef38cb5",
+            "coursePoolName": "关联专业课程课程包",
+            "disabled": false,
+            "discountPrice": 20,
+            "image": "http://dev.accountant.com:8080/mfs/resource/file/2c9180e6582e03a50158438f6d900a09.jpg",
+            "needYear": false,
+            "originalPrice": 1,
+            "period": 20,
+            "purchaseCount": 1,
+            "saleTitle": "购物车商品4",
+            "schemeId": "2c91801666c31ec7016772958b7e073b",
+            "selected": true,
+            "skuPropertyNameList": [
+              {
+                "skuPropertyCode": "trainingYear",
+                "skuPropertyId": "7a4847b2667e31d9e40652c4d14cdbc2",
+                "skuPropertyName": "年度",
+                "skuPropertyValueCode": "2021",
+                "skuPropertyValueId": "812b569c015628569c5a77f6a0315010",
+                "skuPropertyValueName": "2021"
+              },
+              {
+                "skuPropertyCode": "professionalGrade",
+                "skuPropertyId": "40289979626a2975024652c4d14cdb11",
+                "skuPropertyName": "专业技术资格等级",
+                "skuPropertyValueCode": "nothing",
+                "skuPropertyValueId": "40289979626a2975024652c4d14cds25",
+                "skuPropertyValueName": "p1普通"
+              },
+              {
+                "skuPropertyCode": "trainingSubject",
+                "skuPropertyId": "40289979626a2975018652c4d14cdbc3",
+                "skuPropertyName": "科目",
+                "skuPropertyValueCode": "profession",
+                "skuPropertyValueId": "40289979626a2975018a77f6a0316102",
+                "skuPropertyValueName": "专业科目"
+              }
+            ],
+            "unitId": "2c9180e56265050101826a26f5990672",
+            "year": null,
+            "yearOptionsId": null
+          },
+          {
+            "changed": false,
+            "commoditySkuId": "6",
+            "commodityType": "PERIOD",
+            "courseId": "66",
+            "courseName": "1",
+            "coursePoolId": "e39099d11e0044f1afb73e86aef38cb5",
+            "coursePoolName": "关联专业课程课程包",
+            "disabled": false,
+            "discountPrice": 20,
+            "image": "http://dev.accountant.com:8080/mfs/resource/file/2c9180e6582e03a50158438f6d900a09.jpg",
+            "needYear": false,
+            "originalPrice": 1,
+            "period": 20,
+            "purchaseCount": 1,
+            "saleTitle": "购物车商品5",
+            "schemeId": "2c91801666c31ec7016772958b7e073b",
+            "selected": true,
+            "skuPropertyNameList": [
+              {
+                "skuPropertyCode": "trainingYear",
+                "skuPropertyId": "7a4847b2667e31d9e40652c4d14cdbc2",
+                "skuPropertyName": "年度",
+                "skuPropertyValueCode": "2021",
+                "skuPropertyValueId": "812b569c015628569c5a77f6a0315010",
+                "skuPropertyValueName": "2021"
+              },
+              {
+                "skuPropertyCode": "professionalGrade",
+                "skuPropertyId": "40289979626a2975024652c4d14cdb11",
+                "skuPropertyName": "专业技术资格等级",
+                "skuPropertyValueCode": "nothing",
+                "skuPropertyValueId": "40289979626a2975024652c4d14cds25",
+                "skuPropertyValueName": "p1精通"
+              },
+              {
+                "skuPropertyCode": "trainingSubject",
+                "skuPropertyId": "40289979626a2975018652c4d14cdbc3",
+                "skuPropertyName": "科目",
+                "skuPropertyValueCode": "profession",
+                "skuPropertyValueId": "40289979626a2975018a77f6a0316102",
+                "skuPropertyValueName": "专业科目"
+              }
+            ],
+            "unitId": "2c9180e56265050101826a26f5990672",
+            "year": null,
+            "yearOptionsId": null
+          },
+          {
+            "changed": false,
+            "commoditySkuId": "7",
+            "commodityType": "PERIOD",
+            "courseId": "77",
+            "courseName": "1",
+            "coursePoolId": "e39099d11e0044f1afb73e86aef38cb5",
+            "coursePoolName": "关联专业课程课程包",
+            "disabled": false,
+            "discountPrice": 20,
+            "image": "http://dev.accountant.com:8080/mfs/resource/file/2c9180e6582e03a50158438f6d900a09.jpg",
+            "needYear": false,
+            "originalPrice": 1,
+            "period": 20,
+            "purchaseCount": 1,
+            "saleTitle": "购物车商品6",
+            "schemeId": "2c91801666c31ec7016772958b7e073b",
+            "selected": true,
+            "skuPropertyNameList": [
+              {
+                "skuPropertyCode": "trainingYear",
+                "skuPropertyId": "7a4847b2667e31d9e40652c4d14cdbc2",
+                "skuPropertyName": "年度",
+                "skuPropertyValueCode": "2021",
+                "skuPropertyValueId": "812b569c015628569c5a77f6a0315010",
+                "skuPropertyValueName": "2021"
+              },
+              {
+                "skuPropertyCode": "professionalGrade",
+                "skuPropertyId": "40289979626a2975024652c4d14cdb11",
+                "skuPropertyName": "专业技术资格等级",
+                "skuPropertyValueCode": "nothing",
+                "skuPropertyValueId": "40289979626a2975024652c4d14cds25",
+                "skuPropertyValueName": "p1基础"
+              },
+              {
+                "skuPropertyCode": "trainingSubject",
+                "skuPropertyId": "40289979626a2975018652c4d14cdbc3",
+                "skuPropertyName": "科目",
+                "skuPropertyValueCode": "profession",
+                "skuPropertyValueId": "40289979626a2975018a77f6a0316102",
+                "skuPropertyValueName": "专业科目"
+              }
+            ],
+            "unitId": "2c9180e56265050101826a26f5990672",
+            "year": null,
+            "yearOptionsId": null
+          }
+        ],
+        "skuPropertyNameGroup": [
+          {
+            "skuPropertyCode": "trainingYear",
+            "skuPropertyId": "7a4847b2667e31d9e40652c4d14cdbc2",
+            "skuPropertyName": "年度",
+            "skuPropertyValueCode": "2021",
+            "skuPropertyValueId": "812b569c015628569c5a77f6a0315010",
+            "skuPropertyValueName": "2121"
+          },
+          {
+            "skuPropertyCode": "professionalGrade",
+            "skuPropertyId": "40289979626a2975024652c4d14cdb11",
+            "skuPropertyName": "专业技术资格等级",
+            "skuPropertyValueCode": "nothing",
+            "skuPropertyValueId": "40289979626a2975024652c4d14cds25",
+            "skuPropertyValueName": "无"
+          },
+          {
+            "skuPropertyCode": "trainingSubject",
+            "skuPropertyId": "40289979626a2975018652c4d14cdbc3",
+            "skuPropertyName": "科目",
+            "skuPropertyValueCode": "profession",
+            "skuPropertyValueId": "40289979626a2975018a77f6a0316102",
+            "skuPropertyValueName": "专业科目"
+          }
+        ]
+      },
+      {
+        "disabled": true,
+        "shoppingCartCommodityList": [
+          {
+            "changed": false,
+            "commoditySkuId": "2c91804e673eefd80167729592a406d4",
+            "commodityType": "PERIOD",
+            "courseId": "2c9180176753db7c0167584b4a3a04b1",
+            "courseName": "1",
+            "coursePoolId": "e39099d11e0044f1afb73e86aef38cb5",
+            "coursePoolName": "关联专业课程课程包",
+            "disabled": false,
+            "discountPrice": 20,
+            "image": "http://dev.accountant.com:8080/mfs/resource/file/2c9180e6582e03a50158438f6d900a09.jpg",
+            "needYear": false,
+            "originalPrice": 1,
+            "period": 20,
+            "purchaseCount": 1,
+            "saleTitle": "购物车失效商品1",
+            "schemeId": "2c91801666c31ec7016772958b7e073b",
+            "selected": true,
+            "skuPropertyNameList": [
+              {
+                "skuPropertyCode": "trainingYear",
+                "skuPropertyId": "7a4847b2667e31d9e40652c4d14cdbc2",
+                "skuPropertyName": "年度",
+                "skuPropertyValueCode": "2022",
+                "skuPropertyValueId": "812b569c015628569c5a77f6a0315010",
+                "skuPropertyValueName": "2022"
+              },
+              {
+                "skuPropertyCode": "professionalGrade",
+                "skuPropertyId": "40289979626a2975024652c4d14cdb11",
+                "skuPropertyName": "专业技术资格等级",
+                "skuPropertyValueCode": "nothing",
+                "skuPropertyValueId": "40289979626a2975024652c4d14cds25",
+                "skuPropertyValueName": "p1普通"
+              },
+              {
+                "skuPropertyCode": "trainingSubject",
+                "skuPropertyId": "40289979626a2975018652c4d14cdbc3",
+                "skuPropertyName": "科目",
+                "skuPropertyValueCode": "profession",
+                "skuPropertyValueId": "40289979626a2975018a77f6a0316102",
+                "skuPropertyValueName": "专业科目"
+              },
+              {
+                "changed": false,
+                "commoditySkuId": "2c91804e673eefd80167729592a406d4",
+                "commodityType": "PERIOD",
+                "courseId": "2c9180176753db7c0167584b4a3a04b1",
+                "courseName": "1",
+                "coursePoolId": "e39099d11e0044f1afb73e86aef38cb5",
+                "coursePoolName": "关联专业课程课程包",
+                "disabled": false,
+                "discountPrice": 20,
+                "image": "http://dev.accountant.com:8080/mfs/resource/file/2c9180e6582e03a50158438f6d900a09.jpg",
+                "needYear": false,
+                "originalPrice": 1,
+                "period": 20,
+                "purchaseCount": 1,
+                "saleTitle": "购物车失效商品2",
+                "schemeId": "2c91801666c31ec7016772958b7e073b",
+                "selected": true,
+                "skuPropertyNameList": [
+                  {
+                    "skuPropertyCode": "trainingYear",
+                    "skuPropertyId": "7a4847b2667e31d9e40652c4d14cdbc2",
+                    "skuPropertyName": "年度",
+                    "skuPropertyValueCode": "2023",
+                    "skuPropertyValueId": "812b569c015628569c5a77f6a0315010",
+                    "skuPropertyValueName": "2023"
+                  },
+                  {
+                    "skuPropertyCode": "professionalGrade",
+                    "skuPropertyId": "40289979626a2975024652c4d14cdb11",
+                    "skuPropertyName": "专业技术资格等级",
+                    "skuPropertyValueCode": "nothing",
+                    "skuPropertyValueId": "40289979626a2975024652c4d14cds25",
+                    "skuPropertyValueName": "p3普通"
+                  },
+                  {
+                    "skuPropertyCode": "trainingSubject",
+                    "skuPropertyId": "40289979626a2975018652c4d14cdbc3",
+                    "skuPropertyName": "科目",
+                    "skuPropertyValueCode": "profession",
+                    "skuPropertyValueId": "40289979626a2975018a77f6a0316102",
+                    "skuPropertyValueName": "公需科目"
+                  }
+                ],
+                "unitId": "2c9180e56265050101826a26f5990672",
+                "year": null,
+                "yearOptionsId": null
+              }
+            ],
+            "skuPropertyNameGroup": null
+          }
+        ]
+      }
+    ]
+  }
+}
